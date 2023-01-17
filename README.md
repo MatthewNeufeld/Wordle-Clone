@@ -7,4 +7,4 @@ A multiple file, terminal-based Wordle Clone with an additional feature that pro
 - How to write multi-file programs
 - Deepened my understanding of object oriented programming
 - How to alphabetize words into a dictionary text file
-- The original version of Wordle can be boring when my hint feature makes it virtually impossible to lose the game
+- The original version of Wordle can be boring when my hint feature makes it virtually impossible to lose
