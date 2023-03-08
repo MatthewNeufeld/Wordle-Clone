@@ -1,4 +1,4 @@
-# Worlde Clone
+# Wordle Clone
 
 A multiple file, terminal-based Wordle Clone with an additional feature that provides the user hints given their correctly guessed letters using Python.
 
